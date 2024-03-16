@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 45px;
+    border-bottom: 1px solid violet;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+canvas{
+    margin: 0 auto;
+    border: 1px solid violet;
+}
+
+nav{
+    width: 200px;
+    border: 1px solid violet;
+    margin: 0 5px;
+    display: flex;
+    flex-direction: column;
+}
